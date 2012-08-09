@@ -1,0 +1,47 @@
+# Default CRUD messages
+# ~~~~~~
+# @author Kazuhiro Hara(@kara_d)
+
+crud.title=管理画面
+crud.home=管理画面ホーム
+crud.blank=新規
+crud.index.title=管理しているデータ一覧
+crud.index.objectType=編集データ種別
+crud.index.action=アクション
+crud.index.add=追加
+crud.add=追加 &{%s}
+crud.list.title=&{%s} 一覧
+crud.list.size=%d &{%s} が保存されています
+crud.list.totalSize=合計 %d
+crud.pagination.previous=&laquo; 前へ
+crud.pagination.next=次へ &raquo;
+crud.pagination.last=最後 &raquo;&raquo;
+crud.pagination.first=&laquo;&laquo; 最初
+crud.show.title=編集 &{%s}
+crud.save=保存
+crud.saveAndContinue=保存して続ける
+crud.cancel=キャンセル
+crud.hasErrors=エラーがありました
+crud.blank.title=新規作成 &{%s}
+crud.saveAndAddAnother=保存して追加
+crud.delete=削除 &{%s}
+crud.created=&{%s} を作成しました
+crud.saved=The &{%s} を保存しました
+crud.deleted=The &{%s} を削除しました
+crud.delete.error=削除できませんでした
+crud.search=検索
+crud.none=(なし)
+crud.selectValue=(選択してください)
+
+crud.help.required=必須項目です
+crud.help.minlength=最小文字数は %d です
+crud.help.maxlength=最大文字数は %d です
+crud.help.email=正しいメールアドレスが必要です
+crud.help.dateformat=&{%s} のフォーマットでお願いします
+crud.help.numeric=数値でお願いします
+crud.help.min=%d 以内でお願いします
+crud.help.future=未来の日付でお願いします
+crud.help.past=過去の日付でお願いします
+crud.help.after=%s 以降の日付でお願いします
+crud.help.before=%s 以前の日付でお願いします
+crud.help.range=%d から %d の範囲でお願いします
