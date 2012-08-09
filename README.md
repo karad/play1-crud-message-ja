@@ -3,6 +3,9 @@ play1-crud-message-ja
 
 Play framework 1.2.x CRUD Module Japanese Message
 
+## Usage
+
+put message.ja into conf/
 
 ## Licence
 
